@@ -1,0 +1,15 @@
+/Users/cado/c12/dotnet-bank/bin/Debug/net8.0/dotnet-bank
+/Users/cado/c12/dotnet-bank/bin/Debug/net8.0/dotnet-bank.deps.json
+/Users/cado/c12/dotnet-bank/bin/Debug/net8.0/dotnet-bank.runtimeconfig.json
+/Users/cado/c12/dotnet-bank/bin/Debug/net8.0/dotnet-bank.dll
+/Users/cado/c12/dotnet-bank/bin/Debug/net8.0/dotnet-bank.pdb
+/Users/cado/c12/dotnet-bank/obj/Debug/net8.0/dotnet-bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cado/c12/dotnet-bank/obj/Debug/net8.0/dotnet-bank.AssemblyInfoInputs.cache
+/Users/cado/c12/dotnet-bank/obj/Debug/net8.0/dotnet-bank.AssemblyInfo.cs
+/Users/cado/c12/dotnet-bank/obj/Debug/net8.0/dotnet-bank.csproj.CoreCompileInputs.cache
+/Users/cado/c12/dotnet-bank/obj/Debug/net8.0/dotnet-bank.sourcelink.json
+/Users/cado/c12/dotnet-bank/obj/Debug/net8.0/dotnet-bank.dll
+/Users/cado/c12/dotnet-bank/obj/Debug/net8.0/refint/dotnet-bank.dll
+/Users/cado/c12/dotnet-bank/obj/Debug/net8.0/dotnet-bank.pdb
+/Users/cado/c12/dotnet-bank/obj/Debug/net8.0/dotnet-bank.genruntimeconfig.cache
+/Users/cado/c12/dotnet-bank/obj/Debug/net8.0/ref/dotnet-bank.dll
